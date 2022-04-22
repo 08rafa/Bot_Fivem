@@ -1,3 +1,5 @@
+***Bugs, erros, sugestões, qualquer coisa, usem a aba issues dentro do próprio Git Hub, eu irei receber tudo isso imediatamente após ser reportado o problema ou enviada a sugestão.***
+
 PREVIEW:
 ![image](https://user-images.githubusercontent.com/104206689/164745401-ee080ea4-74a4-40ff-bfbd-37bd372ae7a5.png)
 
