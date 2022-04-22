@@ -1,3 +1,6 @@
+Baixe os arquivos do bot clicando sobre "code" e depois em "Download Zip".
+![image](https://user-images.githubusercontent.com/104206689/164741962-ae5df998-969f-4024-9a60-3d8cfa2f2e31.png)
+
 COMO CONFIGURAR:
 
 ¹ - Insira o token e o prefix do seu bot dentro do arquivo "bot.json", dentro da pasta "config".
