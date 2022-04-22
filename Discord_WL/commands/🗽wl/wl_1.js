@@ -44,7 +44,7 @@ module.exports = {
         let embed_entrada = new Discord.MessageEmbed()
             .setColor(cor_das_embeds)
             .setTitle(`✅ Sistema de whitelist!`)
-            .setDescription(`💎 Para **iniciar **o formulário digite: **iniciarwl** neste canal. Para **cancelar** o formulário a qualquer momento digite **cancelarwl** neste canal.\nResponda as perguntas de maneia objetiva e somente com o que foi solicitado.`)
+            .setDescription(`💎 Para **iniciar **o formulário digite: **iniciar** neste canal. Para **cancelar** o formulário a qualquer momento digite **cancelarwl** neste canal.\nResponda as perguntas de maneia objetiva e somente com o que foi solicitado.`)
             .setFooter(footer)
 
         let embed_2 = new Discord.MessageEmbed()
