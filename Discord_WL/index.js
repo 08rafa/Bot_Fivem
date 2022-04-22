@@ -57,5 +57,5 @@ client.on("messageCreate", async (message) => {
 });
 const autorole = require('./config/server.js');
 client.on("guildMemberAdd", async (member) => {
-  member.roles.add(${autorole.sem_wl}))
-}
+    member.roles.add(autorole.sem_wl)
+})
