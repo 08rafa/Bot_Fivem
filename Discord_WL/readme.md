@@ -62,4 +62,5 @@ ENTÃO NÃO CONFUNDA ESTES DOIS NOMES!
 -> *__AUTO-ROLE:__*
 
 Caso queira retirar o sistema de autorole, ele esta nas linhas 60 - 63 na index.js.
+
 ![image](https://user-images.githubusercontent.com/104206689/164741287-1f19c140-f4d2-4c1f-83e3-4d58c9a865ee.png)
