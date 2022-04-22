@@ -1,5 +1,8 @@
 Baixe os arquivos do bot clicando sobre "code" e depois em "Download Zip".
 ![image](https://user-images.githubusercontent.com/104206689/164741962-ae5df998-969f-4024-9a60-3d8cfa2f2e31.png)
+Extraia o arquivo, e os arquivos do bot estarao dentro da pasta Discord_WL.
+![image](https://user-images.githubusercontent.com/104206689/164742358-06454ea5-1b26-40f1-b78e-abc24e868976.png)
+
 
 COMO CONFIGURAR:
 
