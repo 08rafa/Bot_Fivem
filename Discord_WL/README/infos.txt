@@ -1,0 +1,13 @@
+-------------
+--------------
+npm install discord.js
+npm install mysql
+npm install fs
+
+🗽 Projeto Iniciado: 21.04.2022 ≅ 09:30
+🗽 Projeto Finalizado: 21.04.2022 - 21:13 58
+
+🗽 By rafa.#6132
+
+-------------
+--------------
