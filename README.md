@@ -1,3 +1,10 @@
+PREVIEW:
+![image](https://user-images.githubusercontent.com/104206689/164745401-ee080ea4-74a4-40ff-bfbd-37bd372ae7a5.png)
+
+![image](https://user-images.githubusercontent.com/104206689/164745409-371f4f05-ebb9-48d5-8bc1-848b073650e7.png)
+
+
+
 Baixe os arquivos do bot clicando sobre "code" e depois em "Download Zip".
 ![image](https://user-images.githubusercontent.com/104206689/164741962-ae5df998-969f-4024-9a60-3d8cfa2f2e31.png)
 Extraia o arquivo, e os arquivos do bot estarao dentro da pasta Discord_WL.
