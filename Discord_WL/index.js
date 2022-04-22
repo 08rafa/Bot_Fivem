@@ -55,3 +55,7 @@ client.on("messageCreate", async (message) => {
         console.error('Erro:' + err);
     }
 });
+const autorole = require('./config/server.js');
+client.on("guildMemberAdd", async (member) => {
+  member.roles.add(${autorole.sem_wl}))
+}
